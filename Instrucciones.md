@@ -13,6 +13,7 @@ Yo uso firefox y funciona bien, necesito gente que me reporte si funciona bien e
 
 
 2. Click en la extension/Añadir nuevo script (+) 
+
 ![imagen](https://user-images.githubusercontent.com/102851218/161374456-6f84ae29-0994-4aef-a63d-63ea55eee323.png)
 
 3. Pegar el script 
@@ -43,7 +44,9 @@ if (window.top !== window.self) {
 ```
 
 4. Asignar un nombre y guardar y cerrar 
+
 ![imagen](https://user-images.githubusercontent.com/102851218/161374574-2f837d5c-43f9-4401-8ec3-9111d2f0c8fb.png)
 
 5. Actualizar la pagina de r/place y sobre la bandera, debe aparecer la guia de dibujo 
+
 ![imagen](https://user-images.githubusercontent.com/102851218/161374623-bd77d3ee-d92d-4c19-a4d8-9e4ca43ee599.png)
