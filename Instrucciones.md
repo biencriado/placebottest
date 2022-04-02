@@ -1,7 +1,9 @@
 # placebottest
 Bot para visualizar el escudo de Gran Colombia en r/place
 
-![imagen](https://user-images.githubusercontent.com/102851218/161374349-053f10f1-a58f-4a84-b5b2-cc6c14e95b13.png)
+PARA LA NUEVA BANDERA EN LA MITAD DERECHA DEL CANVAS
+
+![imagen](https://user-images.githubusercontent.com/102851218/161400125-f5680863-bfc3-442c-b1d2-80685942e74e.png)
 
 
 Instrucciones 
@@ -35,7 +37,7 @@ if (window.top !== window.self) {
         (function () {
             const i = document.createElement("img");
             i.src = "https://raw.githubusercontent.com/biencriado/placebottest/main/escudoplacetemplate.png";
-            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
+            i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
             console.log(i);
             return i;
         })())
@@ -51,4 +53,4 @@ if (window.top !== window.self) {
 
 5. Actualizar la pagina de r/place y sobre la bandera, debe aparecer la guia de dibujo 
 
-![imagen](https://user-images.githubusercontent.com/102851218/161374623-bd77d3ee-d92d-4c19-a4d8-9e4ca43ee599.png)
+![imagen](https://user-images.githubusercontent.com/102851218/161400156-fc7299d2-78cc-4540-8ec5-dd8b852794eb.png)
