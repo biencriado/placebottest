@@ -1,2 +1,2 @@
 # placebottest
-bot para el escudo de ran colombia en r/place
+Bot para visualizar el escudo de Gran Colombia en r/place
