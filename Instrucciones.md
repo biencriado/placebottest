@@ -7,8 +7,8 @@ Bot para visualizar el escudo de Gran Colombia en r/place
 Instrucciones 
 
 1. Instalar  
-En Chrome/Opera (Tampermonkey)https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en 
-o Firefox (Violentmonkey)https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/.
+En Chrome/Opera (Tampermonkey)[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en]
+o Firefox (Violentmonkey)[https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/]
 Yo uso firefox y funciona bien, necesito gente que me reporte si funciona bien en chrome
 
 
